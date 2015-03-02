@@ -40,3 +40,19 @@
   float: left;
   border:3px solid black;
 }
+
+.hiddeno1, .hiddeno2, .hiddeno3, .hiddeno4, .hiddeno5, .hiddeno6, .hiddeno7, .hiddeno8, .hiddeno9  {
+  display:none;
+}
+
+.hiddenx1, .hiddenx2, .hiddenx3, .hiddenx4, .hiddenx5, .hiddenx6, .hiddenx7, .hiddenx8, .hiddenx9 {
+  display:none;
+}
+
+.o1, .o2, .o3, .o4, .o5, .o6, .o7, .o8, .o9 {
+  max-height: 100px;
+}
+
+.x1, .x2, .x3, .x4, .x5, .x6, .x7, .x8, .x9 {
+  max-height: 50px;
+}
